@@ -13,8 +13,17 @@ Simple linear regression analysis deals with the single dependent and single ind
   value of a and b can be calculated as 
        
                       (∑y)(∑X^2) – (∑(x)∑(xy))
-        a =          ____________________
-                       N(∑(x^2)) – (∑(x)^2)
+        a =          ____________________            where N is the No. of Observations
+                       N(∑(x^2)) – (∑(x))^2
+                       
+        
+        
+       
+                         N(∑xy) – (∑(x)∑(y))
+       b =             ________________________
+                         N(∑(x2)) – (∑(x)2)
+
+                       
 
 
 
