@@ -21,8 +21,13 @@ Simple linear regression analysis deals with the single dependent and single ind
        
                          N(∑xy) – (∑(x)∑(y))
        b =             ________________________
-                         N(∑(x2)) – (∑(x)2)
+                         N(∑(x^2)) – (∑(x))^2
 
+# Multilinear Regression 
+
+expression , y = b1x1 + b2x2 +.....+b0
+
+b1,b2... - coefficient of x1,x2.... 
                        
 
 
