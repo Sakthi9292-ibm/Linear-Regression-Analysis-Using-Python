@@ -5,13 +5,6 @@ Created on Thu Apr 11 09:58:01 2019
 @author: SakthivelSundaram
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 29 16:12:25 2018
-
-@author: saranya
-"""
-
 import pandas as pa
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
